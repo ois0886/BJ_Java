@@ -10,7 +10,6 @@ public class Main {
  
         for (int i = 0; i < num; i++) {
             int pNum = sc.nextInt();
- 
             if (pNum <= 1)
                 b = false;
             else {
